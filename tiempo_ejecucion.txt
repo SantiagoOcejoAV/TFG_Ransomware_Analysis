@@ -1,0 +1,4 @@
+Tiempo de ejecución de la recopilación de hashes: 304189.4360356331 segundos
+
+84 horas, 29 minutos y aproximadamente 49.44 segundos
+----------------------------------------------------------------------------
